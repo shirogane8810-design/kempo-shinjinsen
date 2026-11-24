@@ -1,0 +1,1662 @@
+{
+  "title": "第二回全日本学生拳法新人戦大会",
+  "date": "2026-12-05",
+  "venue": "河内長野体育館",
+  "courts": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "phases": [
+    {
+      "no": 1,
+      "label": "女子1回戦",
+      "block": "女子"
+    },
+    {
+      "no": 2,
+      "label": "男子1・2回戦",
+      "block": "男子"
+    },
+    {
+      "no": 3,
+      "label": "女子2回戦（ベスト4決定）",
+      "block": "女子"
+    },
+    {
+      "no": 4,
+      "label": "男子3回戦（ベスト4決定）",
+      "block": "男子"
+    },
+    {
+      "no": 5,
+      "label": "準決勝（女子・男子同時）",
+      "block": "混合"
+    },
+    {
+      "no": 6,
+      "label": "女子決勝",
+      "block": "女子"
+    },
+    {
+      "no": 7,
+      "label": "男子決勝",
+      "block": "男子"
+    }
+  ],
+  "rest_after_phase": 5,
+  "teams": {
+    "1": {
+      "no": 1,
+      "name": "神戸大学男子A",
+      "short": "神戸大学",
+      "suffix": "A",
+      "block": "男子",
+      "sub": ""
+    },
+    "2": {
+      "no": 2,
+      "name": "明治大学男子",
+      "short": "明治大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "3": {
+      "no": 3,
+      "name": "大阪公立大学中百舌鳥支部男子B",
+      "short": "大阪公立大学中百舌鳥支部",
+      "suffix": "B",
+      "block": "男子",
+      "sub": ""
+    },
+    "4": {
+      "no": 4,
+      "name": "名城大学男子",
+      "short": "名城大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "5": {
+      "no": 5,
+      "name": "同志社大学男子B",
+      "short": "同志社大学",
+      "suffix": "B",
+      "block": "男子",
+      "sub": ""
+    },
+    "6": {
+      "no": 6,
+      "name": "国士舘大学男子",
+      "short": "国士舘大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "7": {
+      "no": 7,
+      "name": "早稲田大学男子A",
+      "short": "早稲田大学",
+      "suffix": "A",
+      "block": "男子",
+      "sub": ""
+    },
+    "8": {
+      "no": 8,
+      "name": "立命館大学男子",
+      "short": "立命館大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "9": {
+      "no": 9,
+      "name": "大阪学院大学男子",
+      "short": "大阪学院大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "10": {
+      "no": 10,
+      "name": "慶應義塾大学男子B",
+      "short": "慶應義塾大学",
+      "suffix": "B",
+      "block": "男子",
+      "sub": ""
+    },
+    "11": {
+      "no": 11,
+      "name": "関西学院大学男子",
+      "short": "関西学院大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "12": {
+      "no": 12,
+      "name": "青山学院大学男子A",
+      "short": "青山学院大学",
+      "suffix": "A",
+      "block": "男子",
+      "sub": ""
+    },
+    "13": {
+      "no": 13,
+      "name": "甲南大学男子",
+      "short": "甲南大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "14": {
+      "no": 14,
+      "name": "立教大学男子A",
+      "short": "立教大学",
+      "suffix": "A",
+      "block": "男子",
+      "sub": ""
+    },
+    "15": {
+      "no": 15,
+      "name": "龍谷大学男子",
+      "short": "龍谷大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "16": {
+      "no": 16,
+      "name": "同志社大学男子A",
+      "short": "同志社大学",
+      "suffix": "A",
+      "block": "男子",
+      "sub": ""
+    },
+    "17": {
+      "no": 17,
+      "name": "青山学院大学男子B",
+      "short": "青山学院大学",
+      "suffix": "B",
+      "block": "男子",
+      "sub": ""
+    },
+    "18": {
+      "no": 18,
+      "name": "日本大学男子",
+      "short": "日本大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "19": {
+      "no": 19,
+      "name": "大阪公立大学杉本支部男子",
+      "short": "大阪公立大学杉本支部",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "20": {
+      "no": 20,
+      "name": "慶應義塾大学男子A",
+      "short": "慶應義塾大学",
+      "suffix": "A",
+      "block": "男子",
+      "sub": ""
+    },
+    "21": {
+      "no": 21,
+      "name": "近畿大学男子",
+      "short": "近畿大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "22": {
+      "no": 22,
+      "name": "早稲田大学男子B",
+      "short": "早稲田大学",
+      "suffix": "B",
+      "block": "男子",
+      "sub": ""
+    },
+    "23": {
+      "no": 23,
+      "name": "桃山学院大学男子",
+      "short": "桃山学院大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "24": {
+      "no": 24,
+      "name": "東洋大学男子",
+      "short": "東洋大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "25": {
+      "no": 25,
+      "name": "神戸大学男子B",
+      "short": "神戸大学",
+      "suffix": "B",
+      "block": "男子",
+      "sub": ""
+    },
+    "26": {
+      "no": 26,
+      "name": "亜細亜大学男子",
+      "short": "亜細亜大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "27": {
+      "no": 27,
+      "name": "大阪公立大学中百舌鳥支部男子A",
+      "short": "大阪公立大学中百舌鳥支部",
+      "suffix": "A",
+      "block": "男子",
+      "sub": ""
+    },
+    "28": {
+      "no": 28,
+      "name": "立教大学男子B",
+      "short": "立教大学",
+      "suffix": "B",
+      "block": "男子",
+      "sub": ""
+    },
+    "29": {
+      "no": 29,
+      "name": "京都産業大学男子",
+      "short": "京都産業大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "30": {
+      "no": 30,
+      "name": "立正大学男子",
+      "short": "立正大学",
+      "suffix": "",
+      "block": "男子",
+      "sub": ""
+    },
+    "31": {
+      "no": 31,
+      "name": "同志社大学女子",
+      "short": "同志社大学",
+      "suffix": "",
+      "block": "女子",
+      "sub": ""
+    },
+    "32": {
+      "no": 32,
+      "name": "立教大学女子B",
+      "short": "立教大学",
+      "suffix": "B",
+      "block": "女子",
+      "sub": ""
+    },
+    "33": {
+      "no": 33,
+      "name": "青山学院大学女子A",
+      "short": "青山学院大学",
+      "suffix": "A",
+      "block": "女子",
+      "sub": ""
+    },
+    "34": {
+      "no": 34,
+      "name": "大阪公立大学杉本支部女子",
+      "short": "大阪公立大学杉本支部",
+      "suffix": "",
+      "block": "女子",
+      "sub": ""
+    },
+    "35": {
+      "no": 35,
+      "name": "早稲田大学女子",
+      "short": "早稲田大学",
+      "suffix": "",
+      "block": "女子",
+      "sub": ""
+    },
+    "36": {
+      "no": 36,
+      "name": "国士舘大学女子",
+      "short": "国士舘大学",
+      "suffix": "",
+      "block": "女子",
+      "sub": ""
+    },
+    "37": {
+      "no": 37,
+      "name": "大阪公立大学中百舌鳥支部女子",
+      "short": "大阪公立大学中百舌鳥支部",
+      "suffix": "",
+      "block": "女子",
+      "sub": ""
+    },
+    "38": {
+      "no": 38,
+      "name": "青山学院大学女子B",
+      "short": "青山学院大学",
+      "suffix": "B",
+      "block": "女子",
+      "sub": ""
+    },
+    "39": {
+      "no": 39,
+      "name": "京都産業大学女子",
+      "short": "京都産業大学",
+      "suffix": "",
+      "block": "女子",
+      "sub": ""
+    },
+    "40": {
+      "no": 40,
+      "name": "東洋大学女子",
+      "short": "東洋大学",
+      "suffix": "",
+      "block": "女子",
+      "sub": ""
+    },
+    "41": {
+      "no": 41,
+      "name": "愛知学院大学女子",
+      "short": "愛知学院大学",
+      "suffix": "",
+      "block": "女子",
+      "sub": ""
+    },
+    "42": {
+      "no": 42,
+      "name": "関西学院大学女子",
+      "short": "関西学院大学",
+      "suffix": "",
+      "block": "女子",
+      "sub": ""
+    },
+    "43": {
+      "no": 43,
+      "name": "日本大学女子",
+      "short": "日本大学",
+      "suffix": "",
+      "block": "女子",
+      "sub": ""
+    },
+    "44": {
+      "no": 44,
+      "name": "立教大学女子A",
+      "short": "立教大学",
+      "suffix": "A",
+      "block": "女子",
+      "sub": ""
+    },
+    "45": {
+      "no": 45,
+      "name": "女子合同チーム",
+      "short": "合同チーム",
+      "suffix": "",
+      "block": "女子",
+      "sub": "立命館・立正・関東学院"
+    }
+  },
+  "matches": [
+    {
+      "id": "A-1",
+      "court": "A",
+      "order": 1,
+      "block": "女子",
+      "phase": 1,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 31
+        },
+        {
+          "team": 32
+        }
+      ],
+      "next": {
+        "id": "A-8",
+        "slot": 0
+      }
+    },
+    {
+      "id": "A-2",
+      "court": "A",
+      "order": 2,
+      "block": "女子",
+      "phase": 1,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 33
+        },
+        {
+          "team": 34
+        }
+      ],
+      "next": {
+        "id": "A-8",
+        "slot": 1
+      }
+    },
+    {
+      "id": "A-3",
+      "court": "A",
+      "order": 3,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 2
+        },
+        {
+          "team": 3
+        }
+      ],
+      "next": {
+        "id": "A-6",
+        "slot": 1
+      }
+    },
+    {
+      "id": "A-4",
+      "court": "A",
+      "order": 4,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 4
+        },
+        {
+          "team": 5
+        }
+      ],
+      "next": {
+        "id": "A-7",
+        "slot": 0
+      }
+    },
+    {
+      "id": "A-5",
+      "court": "A",
+      "order": 5,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 6
+        },
+        {
+          "team": 7
+        }
+      ],
+      "next": {
+        "id": "A-7",
+        "slot": 1
+      }
+    },
+    {
+      "id": "A-6",
+      "court": "A",
+      "order": 6,
+      "block": "男子",
+      "phase": 2,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "team": 1
+        },
+        {
+          "from": "A-3"
+        }
+      ],
+      "next": {
+        "id": "A-9",
+        "slot": 0
+      }
+    },
+    {
+      "id": "A-7",
+      "court": "A",
+      "order": 7,
+      "block": "男子",
+      "phase": 2,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "from": "A-4"
+        },
+        {
+          "from": "A-5"
+        }
+      ],
+      "next": {
+        "id": "A-9",
+        "slot": 1
+      }
+    },
+    {
+      "id": "A-8",
+      "court": "A",
+      "order": 8,
+      "block": "女子",
+      "phase": 3,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "from": "A-1"
+        },
+        {
+          "from": "A-2"
+        }
+      ],
+      "next": {
+        "id": "A-10",
+        "slot": 0
+      }
+    },
+    {
+      "id": "A-9",
+      "court": "A",
+      "order": 9,
+      "block": "男子",
+      "phase": 4,
+      "round": "3回戦",
+      "level": 3,
+      "slots": [
+        {
+          "from": "A-6"
+        },
+        {
+          "from": "A-7"
+        }
+      ],
+      "next": {
+        "id": "C-10",
+        "slot": 0
+      }
+    },
+    {
+      "id": "A-10",
+      "court": "A",
+      "order": 10,
+      "block": "女子",
+      "phase": 5,
+      "round": "準決勝",
+      "level": 3,
+      "slots": [
+        {
+          "from": "A-8"
+        },
+        {
+          "from": "C-8"
+        }
+      ],
+      "next": {
+        "id": "女子決勝",
+        "slot": 0
+      }
+    },
+    {
+      "id": "女子決勝",
+      "court": "A",
+      "order": 11,
+      "block": "女子",
+      "phase": 6,
+      "round": "決勝",
+      "level": 4,
+      "slots": [
+        {
+          "from": "A-10"
+        },
+        {
+          "from": "B-11"
+        }
+      ],
+      "next": null
+    },
+    {
+      "id": "男子決勝",
+      "court": "A",
+      "order": 12,
+      "block": "男子",
+      "phase": 7,
+      "round": "決勝",
+      "level": 5,
+      "slots": [
+        {
+          "from": "C-10"
+        },
+        {
+          "from": "D-10"
+        }
+      ],
+      "next": null
+    },
+    {
+      "id": "B-1",
+      "court": "B",
+      "order": 1,
+      "block": "女子",
+      "phase": 1,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 38
+        },
+        {
+          "team": 39
+        }
+      ],
+      "next": {
+        "id": "B-9",
+        "slot": 0
+      }
+    },
+    {
+      "id": "B-2",
+      "court": "B",
+      "order": 2,
+      "block": "女子",
+      "phase": 1,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 40
+        },
+        {
+          "team": 41
+        }
+      ],
+      "next": {
+        "id": "B-9",
+        "slot": 1
+      }
+    },
+    {
+      "id": "B-3",
+      "court": "B",
+      "order": 3,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 16
+        },
+        {
+          "team": 17
+        }
+      ],
+      "next": {
+        "id": "B-7",
+        "slot": 0
+      }
+    },
+    {
+      "id": "B-4",
+      "court": "B",
+      "order": 4,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 18
+        },
+        {
+          "team": 19
+        }
+      ],
+      "next": {
+        "id": "B-7",
+        "slot": 1
+      }
+    },
+    {
+      "id": "B-5",
+      "court": "B",
+      "order": 5,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 20
+        },
+        {
+          "team": 21
+        }
+      ],
+      "next": {
+        "id": "B-8",
+        "slot": 0
+      }
+    },
+    {
+      "id": "B-6",
+      "court": "B",
+      "order": 6,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 22
+        },
+        {
+          "team": 23
+        }
+      ],
+      "next": {
+        "id": "B-8",
+        "slot": 1
+      }
+    },
+    {
+      "id": "B-7",
+      "court": "B",
+      "order": 7,
+      "block": "男子",
+      "phase": 2,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "from": "B-3"
+        },
+        {
+          "from": "B-4"
+        }
+      ],
+      "next": {
+        "id": "B-10",
+        "slot": 0
+      }
+    },
+    {
+      "id": "B-8",
+      "court": "B",
+      "order": 8,
+      "block": "男子",
+      "phase": 2,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "from": "B-5"
+        },
+        {
+          "from": "B-6"
+        }
+      ],
+      "next": {
+        "id": "B-10",
+        "slot": 1
+      }
+    },
+    {
+      "id": "B-9",
+      "court": "B",
+      "order": 9,
+      "block": "女子",
+      "phase": 3,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "from": "B-1"
+        },
+        {
+          "from": "B-2"
+        }
+      ],
+      "next": {
+        "id": "B-11",
+        "slot": 0
+      }
+    },
+    {
+      "id": "B-10",
+      "court": "B",
+      "order": 10,
+      "block": "男子",
+      "phase": 4,
+      "round": "3回戦",
+      "level": 3,
+      "slots": [
+        {
+          "from": "B-7"
+        },
+        {
+          "from": "B-8"
+        }
+      ],
+      "next": {
+        "id": "D-10",
+        "slot": 0
+      }
+    },
+    {
+      "id": "B-11",
+      "court": "B",
+      "order": 11,
+      "block": "女子",
+      "phase": 5,
+      "round": "準決勝",
+      "level": 3,
+      "slots": [
+        {
+          "from": "B-9"
+        },
+        {
+          "from": "D-8"
+        }
+      ],
+      "next": {
+        "id": "女子決勝",
+        "slot": 1
+      }
+    },
+    {
+      "id": "C-1",
+      "court": "C",
+      "order": 1,
+      "block": "女子",
+      "phase": 1,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 36
+        },
+        {
+          "team": 37
+        }
+      ],
+      "next": {
+        "id": "C-8",
+        "slot": 1
+      }
+    },
+    {
+      "id": "C-2",
+      "court": "C",
+      "order": 2,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 8
+        },
+        {
+          "team": 9
+        }
+      ],
+      "next": {
+        "id": "C-6",
+        "slot": 0
+      }
+    },
+    {
+      "id": "C-3",
+      "court": "C",
+      "order": 3,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 10
+        },
+        {
+          "team": 11
+        }
+      ],
+      "next": {
+        "id": "C-6",
+        "slot": 1
+      }
+    },
+    {
+      "id": "C-4",
+      "court": "C",
+      "order": 4,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 12
+        },
+        {
+          "team": 13
+        }
+      ],
+      "next": {
+        "id": "C-7",
+        "slot": 0
+      }
+    },
+    {
+      "id": "C-5",
+      "court": "C",
+      "order": 5,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 14
+        },
+        {
+          "team": 15
+        }
+      ],
+      "next": {
+        "id": "C-7",
+        "slot": 1
+      }
+    },
+    {
+      "id": "C-6",
+      "court": "C",
+      "order": 6,
+      "block": "男子",
+      "phase": 2,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "from": "C-2"
+        },
+        {
+          "from": "C-3"
+        }
+      ],
+      "next": {
+        "id": "C-9",
+        "slot": 0
+      }
+    },
+    {
+      "id": "C-7",
+      "court": "C",
+      "order": 7,
+      "block": "男子",
+      "phase": 2,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "from": "C-4"
+        },
+        {
+          "from": "C-5"
+        }
+      ],
+      "next": {
+        "id": "C-9",
+        "slot": 1
+      }
+    },
+    {
+      "id": "C-8",
+      "court": "C",
+      "order": 8,
+      "block": "女子",
+      "phase": 3,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "team": 35
+        },
+        {
+          "from": "C-1"
+        }
+      ],
+      "next": {
+        "id": "A-10",
+        "slot": 1
+      }
+    },
+    {
+      "id": "C-9",
+      "court": "C",
+      "order": 9,
+      "block": "男子",
+      "phase": 4,
+      "round": "3回戦",
+      "level": 3,
+      "slots": [
+        {
+          "from": "C-6"
+        },
+        {
+          "from": "C-7"
+        }
+      ],
+      "next": {
+        "id": "C-10",
+        "slot": 1
+      }
+    },
+    {
+      "id": "C-10",
+      "court": "C",
+      "order": 10,
+      "block": "男子",
+      "phase": 5,
+      "round": "準決勝",
+      "level": 4,
+      "slots": [
+        {
+          "from": "A-9"
+        },
+        {
+          "from": "C-9"
+        }
+      ],
+      "next": {
+        "id": "男子決勝",
+        "slot": 0
+      }
+    },
+    {
+      "id": "D-1",
+      "court": "D",
+      "order": 1,
+      "block": "女子",
+      "phase": 1,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 42
+        },
+        {
+          "team": 43
+        }
+      ],
+      "next": {
+        "id": "D-8",
+        "slot": 0
+      }
+    },
+    {
+      "id": "D-2",
+      "court": "D",
+      "order": 2,
+      "block": "女子",
+      "phase": 1,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 44
+        },
+        {
+          "team": 45
+        }
+      ],
+      "next": {
+        "id": "D-8",
+        "slot": 1
+      }
+    },
+    {
+      "id": "D-3",
+      "court": "D",
+      "order": 3,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 24
+        },
+        {
+          "team": 25
+        }
+      ],
+      "next": {
+        "id": "D-6",
+        "slot": 0
+      }
+    },
+    {
+      "id": "D-4",
+      "court": "D",
+      "order": 4,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 26
+        },
+        {
+          "team": 27
+        }
+      ],
+      "next": {
+        "id": "D-6",
+        "slot": 1
+      }
+    },
+    {
+      "id": "D-5",
+      "court": "D",
+      "order": 5,
+      "block": "男子",
+      "phase": 2,
+      "round": "1回戦",
+      "level": 1,
+      "slots": [
+        {
+          "team": 28
+        },
+        {
+          "team": 29
+        }
+      ],
+      "next": {
+        "id": "D-7",
+        "slot": 0
+      }
+    },
+    {
+      "id": "D-6",
+      "court": "D",
+      "order": 6,
+      "block": "男子",
+      "phase": 2,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "from": "D-3"
+        },
+        {
+          "from": "D-4"
+        }
+      ],
+      "next": {
+        "id": "D-9",
+        "slot": 0
+      }
+    },
+    {
+      "id": "D-7",
+      "court": "D",
+      "order": 7,
+      "block": "男子",
+      "phase": 2,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "from": "D-5"
+        },
+        {
+          "team": 30
+        }
+      ],
+      "next": {
+        "id": "D-9",
+        "slot": 1
+      }
+    },
+    {
+      "id": "D-8",
+      "court": "D",
+      "order": 8,
+      "block": "女子",
+      "phase": 3,
+      "round": "2回戦",
+      "level": 2,
+      "slots": [
+        {
+          "from": "D-1"
+        },
+        {
+          "from": "D-2"
+        }
+      ],
+      "next": {
+        "id": "B-11",
+        "slot": 1
+      }
+    },
+    {
+      "id": "D-9",
+      "court": "D",
+      "order": 9,
+      "block": "男子",
+      "phase": 4,
+      "round": "3回戦",
+      "level": 3,
+      "slots": [
+        {
+          "from": "D-6"
+        },
+        {
+          "from": "D-7"
+        }
+      ],
+      "next": {
+        "id": "D-10",
+        "slot": 1
+      }
+    },
+    {
+      "id": "D-10",
+      "court": "D",
+      "order": 10,
+      "block": "男子",
+      "phase": 5,
+      "round": "準決勝",
+      "level": 4,
+      "slots": [
+        {
+          "from": "B-10"
+        },
+        {
+          "from": "D-9"
+        }
+      ],
+      "next": {
+        "id": "男子決勝",
+        "slot": 1
+      }
+    }
+  ],
+  "trees": {
+    "男子": {
+      "match": "男子決勝",
+      "children": [
+        {
+          "match": "C-10",
+          "children": [
+            {
+              "match": "A-9",
+              "children": [
+                {
+                  "match": "A-6",
+                  "children": [
+                    {
+                      "team": 1
+                    },
+                    {
+                      "match": "A-3",
+                      "children": [
+                        {
+                          "team": 2
+                        },
+                        {
+                          "team": 3
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "match": "A-7",
+                  "children": [
+                    {
+                      "match": "A-4",
+                      "children": [
+                        {
+                          "team": 4
+                        },
+                        {
+                          "team": 5
+                        }
+                      ]
+                    },
+                    {
+                      "match": "A-5",
+                      "children": [
+                        {
+                          "team": 6
+                        },
+                        {
+                          "team": 7
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "match": "C-9",
+              "children": [
+                {
+                  "match": "C-6",
+                  "children": [
+                    {
+                      "match": "C-2",
+                      "children": [
+                        {
+                          "team": 8
+                        },
+                        {
+                          "team": 9
+                        }
+                      ]
+                    },
+                    {
+                      "match": "C-3",
+                      "children": [
+                        {
+                          "team": 10
+                        },
+                        {
+                          "team": 11
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "match": "C-7",
+                  "children": [
+                    {
+                      "match": "C-4",
+                      "children": [
+                        {
+                          "team": 12
+                        },
+                        {
+                          "team": 13
+                        }
+                      ]
+                    },
+                    {
+                      "match": "C-5",
+                      "children": [
+                        {
+                          "team": 14
+                        },
+                        {
+                          "team": 15
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "match": "D-10",
+          "children": [
+            {
+              "match": "B-10",
+              "children": [
+                {
+                  "match": "B-7",
+                  "children": [
+                    {
+                      "match": "B-3",
+                      "children": [
+                        {
+                          "team": 16
+                        },
+                        {
+                          "team": 17
+                        }
+                      ]
+                    },
+                    {
+                      "match": "B-4",
+                      "children": [
+                        {
+                          "team": 18
+                        },
+                        {
+                          "team": 19
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "match": "B-8",
+                  "children": [
+                    {
+                      "match": "B-5",
+                      "children": [
+                        {
+                          "team": 20
+                        },
+                        {
+                          "team": 21
+                        }
+                      ]
+                    },
+                    {
+                      "match": "B-6",
+                      "children": [
+                        {
+                          "team": 22
+                        },
+                        {
+                          "team": 23
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "match": "D-9",
+              "children": [
+                {
+                  "match": "D-6",
+                  "children": [
+                    {
+                      "match": "D-3",
+                      "children": [
+                        {
+                          "team": 24
+                        },
+                        {
+                          "team": 25
+                        }
+                      ]
+                    },
+                    {
+                      "match": "D-4",
+                      "children": [
+                        {
+                          "team": 26
+                        },
+                        {
+                          "team": 27
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "match": "D-7",
+                  "children": [
+                    {
+                      "match": "D-5",
+                      "children": [
+                        {
+                          "team": 28
+                        },
+                        {
+                          "team": 29
+                        }
+                      ]
+                    },
+                    {
+                      "team": 30
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "女子": {
+      "match": "女子決勝",
+      "children": [
+        {
+          "match": "A-10",
+          "children": [
+            {
+              "match": "A-8",
+              "children": [
+                {
+                  "match": "A-1",
+                  "children": [
+                    {
+                      "team": 31
+                    },
+                    {
+                      "team": 32
+                    }
+                  ]
+                },
+                {
+                  "match": "A-2",
+                  "children": [
+                    {
+                      "team": 33
+                    },
+                    {
+                      "team": 34
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "match": "C-8",
+              "children": [
+                {
+                  "team": 35
+                },
+                {
+                  "match": "C-1",
+                  "children": [
+                    {
+                      "team": 36
+                    },
+                    {
+                      "team": 37
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "match": "B-11",
+          "children": [
+            {
+              "match": "B-9",
+              "children": [
+                {
+                  "match": "B-1",
+                  "children": [
+                    {
+                      "team": 38
+                    },
+                    {
+                      "team": 39
+                    }
+                  ]
+                },
+                {
+                  "match": "B-2",
+                  "children": [
+                    {
+                      "team": 40
+                    },
+                    {
+                      "team": 41
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "match": "D-8",
+              "children": [
+                {
+                  "match": "D-1",
+                  "children": [
+                    {
+                      "team": 42
+                    },
+                    {
+                      "team": 43
+                    }
+                  ]
+                },
+                {
+                  "match": "D-2",
+                  "children": [
+                    {
+                      "team": 44
+                    },
+                    {
+                      "team": 45
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

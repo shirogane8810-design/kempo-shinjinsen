@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>速報トーナメント | 第二回全日本学生拳法新人戦大会</title>
+  <link rel="stylesheet" href="css/style.css?v=1124c">
+  <script defer src="config.js?v=1124c"></script><script defer src="js/logic.js?v=1124c"></script>
+  <script defer src="js/api.js?v=1124c"></script><script defer src="js/bracket-view.js?v=1124c"></script><script defer src="js/viewer.js?v=1124c"></script>
+</head>
+<body class="viewer">
+  <header><p class="eyebrow">2026.12.05 · 河内長野体育館</p><h1>第二回全日本学生拳法新人戦大会</h1>
+    <div class="toolbar"><button id="refresh" class="primary">更新</button><span id="updated">最終更新 —</span>
+      <label class="switch"><input id="auto" type="checkbox">自動更新 <small>30秒</small></label></div>
+  </header>
+  <main>
+    <p id="message" class="message" role="status" aria-live="polite"></p>
+    <!-- 11/24 ユーザー指示: 最初はトーナメント表だけ。進行状況（段階・コート別）は別タブに分ける。 -->
+    <div class="view-tabs" role="tablist" aria-label="表示の切り替え">
+      <button id="view-tab-bracket" role="tab" aria-selected="true" aria-controls="view-bracket" data-view="bracket">トーナメント表</button><button id="view-tab-progress" role="tab" aria-selected="false" aria-controls="view-progress" data-view="progress" tabindex="-1">進行状況</button>
+    </div>
+    <section id="champions" class="champions" aria-label="大会結果" aria-live="polite" hidden></section>
+    <div id="view-progress" role="tabpanel" aria-labelledby="view-tab-progress" hidden>
+      <section aria-label="いまの段階"><h2 id="phase-label">読み込み中…</h2><ol id="phases" class="phases"></ol></section>
+      <section id="courts" class="courts" aria-label="コート別の試合状況"></section>
+    </div>
+    <div id="view-bracket" role="tabpanel" aria-labelledby="view-tab-bracket">
+    <section class="bracket-section"><div class="section-heading"><p id="phase-mini" class="phase-mini">読み込み中…</p>
+      <div role="tablist" aria-label="部門"><button id="tab-men" role="tab" aria-selected="true" aria-controls="bracket" data-block="男子">男子</button><button id="tab-women" role="tab" aria-selected="false" aria-controls="bracket" data-block="女子" tabindex="-1">女子</button></div></div>
+      <p id="bracket-hint" class="hint">チーム名を押すと次の試合を確認できます。表は横にスクロールできます。</p>
+      <div id="bracket" class="bracket-scroll" role="tabpanel" aria-labelledby="tab-men" aria-describedby="bracket-hint" tabindex="0"></div>
+    </section>
+    </div>
+  </main>
+  <dialog id="team-dialog" class="team-dialog"><h2 id="team-title"></h2><p id="team-info"></p><button id="close-dialog">閉じる</button></dialog>
+  <span id="mock" class="mock" hidden>テストモード</span>
+</body>
+</html>
